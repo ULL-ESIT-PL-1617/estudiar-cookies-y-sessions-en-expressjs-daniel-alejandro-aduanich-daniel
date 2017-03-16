@@ -1,9 +1,9 @@
 # Links al deploy
 
-* [versión gitbooks]()
-* [versión gh-pages]()
-* [versión iass]()
-* [versión heroku]()
+* [versión gitbooks](https://danielfernandezperez.gitbooks.io/cookie-dani2-adu-alex/content/)
+* [versión gh-pages](https://ull-esit-pl-1617.github.io/estudiar-cookies-y-sessions-en-expressjs-daniel-alejandro-aduanich-daniel/)
+* [versión iass](http://10.6.128.40/)
+* [versión heroku](https://cookies-daniel2-adu-alejandro.herokuapp.com/)
 
 # Links a la especificación de la práctica
 
